@@ -14,4 +14,6 @@
 src="https://media.tenor.com/Omf26Jf4bYYAAAAi/neapolitan-ice-cream.gif" width="40"/>
 <img
 src="https://img1.picmix.com/output/stamp/normal/4/2/9/6/2856924_ede75.gif" width="50"/>
+<img
+src="https://media.tenor.com/ANhHGxKYxfIAAAAi/pusheen-food-pusheen.gif" width="40"/>
 
